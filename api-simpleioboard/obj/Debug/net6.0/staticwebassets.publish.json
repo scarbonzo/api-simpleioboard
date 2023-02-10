@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "AEn5KoIdpHtszfNtWbHA5uKgxegofPnrDIeHaZhScbQ=",
+  "Source": "api-simpleioboard",
+  "BasePath": "_content/api-simpleioboard",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
